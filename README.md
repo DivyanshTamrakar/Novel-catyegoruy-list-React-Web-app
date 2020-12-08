@@ -1,2 +1,2 @@
-# Novel-catyegoruy-list-React-Web-app
+# Novel-category-list-React-Web-app
 Created with CodeSandbox
