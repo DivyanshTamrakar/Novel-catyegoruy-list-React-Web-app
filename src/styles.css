@@ -1,0 +1,48 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-image: url(https://images.pexels.com/photos/604684/pexels-photo-604684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0rem;
+  padding-inline-start: 0rem;
+}
+.btn {
+  margin: 0.5rem;
+  padding: 0.3rem;
+}
+
+.list-item {
+  font-size: larger;
+  width: 35%;
+  border: 5px solid white;
+  margin: auto;
+  padding: 1rem;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 2rem;
+  border-radius: 2rem 0rem 2rem 0rem;
+}
+.btn {
+  padding: 1.2rem;
+  margin: 0.3rem;
+  border-color: transparent;
+  border-radius: 2rem;
+  background-color: orange;
+  color: white;
+  font-size: medium;
+  font-weight: bold;
+}
+.element {
+  margin-bottom: 0.5rem;
+}
+.header {
+  padding: 2rem;
+
+  color: white;
+  font-size: xx-large;
+  font-weight: bolder;
+  margin: auto;
+}
